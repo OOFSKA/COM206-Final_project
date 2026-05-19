@@ -25,4 +25,4 @@ Here i have some screen shots on how the application looks like.
 
 
 # Installation Details
-The user needs Pyside6 and a Python envrionment ready to use the application.
+The user needs Pyside6 and a Python envrionment ready to use this application.
