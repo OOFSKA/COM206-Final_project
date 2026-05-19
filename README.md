@@ -5,7 +5,6 @@ This project aims to learn ability to create desktop applications using framewor
 # Details
 The app stores users item list on exit automatically by using a Json file so the contents arent lost on exit as well as a pdf uploading place to save an image of your liking for the item.
 
-# Screenshots From Project
 Here i have some screen shots on how the application looks like.
 
 
