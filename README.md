@@ -7,7 +7,8 @@ This project aims to learn ability to create desktop applications using framewor
 Here i have some screen shots on how the application looks like.
 
 The Main menu:
-<img width="992" height="779" alt="image" src="https://github.com/user-attachments/assets/b17ded39-17a6-4c5a-936f-95727fe57b8a" />
+<img width="654" height="460" alt="image" src="https://github.com/user-attachments/assets/3534f072-fa1f-474c-89ea-c48bb49908da" />
+
 
 Items added to list:
 <img width="649" height="463" alt="image" src="https://github.com/user-attachments/assets/321c03cf-29d8-4212-bf85-c873cb4cf0e8" />
