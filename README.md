@@ -3,7 +3,7 @@ My final project Item Attribute List is a destkop application tha runs on python
 
 This project aims to learn ability to create desktop applications using frameworks and having an idea of how backend/frontend coding works.
 
-#Screenshots From Project
+# Screenshots From Project
 Here i have some screen shots on how the application looks like.
 
 The Main menu:
