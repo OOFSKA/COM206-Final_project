@@ -1,4 +1,4 @@
-# COM206-Final_project: Item Attribute List
+# COM206-Final_project: Item Attribute Lister
 My final project Item Attribute List is a destkop application tha runs on python and is designed in Qt designer with a purpose of storing a list of elements and having the ability to give them attribute and an image attached to it.
 This project aims to learn ability to create desktop applications using frameworks and having an idea of how back end/front end coding works.
 
